@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704227821779",
+    "firebase_url": "https://stayalert-10015.firebaseio.com",
+    "project_id": "stayalert-10015",
+    "storage_bucket": "stayalert-10015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704227821779:android:41d1829eb641b823",
+        "android_client_info": {
+          "package_name": "com.tech42labs.stayalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704227821779-7vecc4u4hl8r53jfs2va57h4s585j712.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech42labs.stayalert",
+            "certificate_hash": "0a5af7355445eb0ee83a27cede87be7b9b8c630e"
+          }
+        },
+        {
+          "client_id": "704227821779-qeh00vj5dlhavubecctg51q1en7u69vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBd3gHogkE_nLrR9W0ogkNBQIsMMnPTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704227821779-qeh00vj5dlhavubecctg51q1en7u69vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
